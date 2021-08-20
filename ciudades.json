@@ -5,6 +5,11 @@
 		"municipio" : "DISTRITO NACIONAL"
 	},
 	{
+		"provincia_id" : 12,
+		"municipio_id" : 1201,
+		"municipio" : "VILLA MELLA"
+	},
+	{
 		"provincia_id" : 71,
 		"municipio_id" : 201,
 		"municipio" : "AZUA"
