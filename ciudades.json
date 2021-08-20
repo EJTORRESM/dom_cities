@@ -10,6 +10,11 @@
 		"municipio" : "VILLA MELLA"
 	},
 	{
+		"provincia_id" : 12,
+		"municipio_id" : 1202,
+		"municipio" : "SANTO DOMINGO"
+	},
+	{
 		"provincia_id" : 71,
 		"municipio_id" : 201,
 		"municipio" : "AZUA"
