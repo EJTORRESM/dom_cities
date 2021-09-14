@@ -803,5 +803,20 @@
 		"provincia_id" : 1,
 		"municipio_id" : 3207,
 		"municipio" : "PEDRO BRAND"
-	}	
+	},
+	{
+		"provincia_id" : 101,
+		"municipio_id" : 3208,
+		"municipio" : "NEW YORK"
+	},
+	{
+		"provincia_id" : 102,
+		"municipio_id" : 3209,
+		"municipio" : "PATERSON"
+	},
+	{
+		"provincia_id" : 103,
+		"municipio_id" : 3209,
+		"municipio" : "MADRID"
+	}
 ]
