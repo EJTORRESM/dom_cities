@@ -126,5 +126,17 @@
 	{
 		"provincia_id" : 94,
 		"provincia" : "Peravia"
+	},
+	{
+		"provincia_id" : I1,
+		"provincia" : "New York"
+	},
+	{
+		"provincia_id" : I2,
+		"provincia" : "Paterson"
+	}
+	{
+		"provincia_id" : I3,
+		"provincia" : "Madrid"
 	}
 ]
